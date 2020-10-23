@@ -1,2 +1,3 @@
-var aux = "hola mundo desde consola"
+var aux = "hola mundo"
+
 console.log(aux)
