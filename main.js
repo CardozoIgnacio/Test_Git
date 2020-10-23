@@ -1,3 +1,3 @@
-var aux = "hola mundo"
+var aux = "hola mundo."
 
 console.log(aux)
